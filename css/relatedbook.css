@@ -1,0 +1,52 @@
+.related-books-container {
+    margin-top: 30px;
+    margin-left: 320px;
+    margin-right: 100px;
+}
+
+.related-books-title {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.related-books {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+.related-book {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+.related-book:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.related-book-cover {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.related-book-title {
+    font-size: 1.1rem;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.related-book-author {
+    font-size: 0.9rem;
+    color: #666;
+}
+.no-related-books {
+    font-size: 1.1rem;
+    color: #777;
+    margin-top: 20px;
+}

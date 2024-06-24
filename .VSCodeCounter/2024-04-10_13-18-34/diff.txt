@@ -1,0 +1,62 @@
+Date : 2024-04-10 13:18:34
+Directory : c:\xampp\htdocs\Project3200\css
+Total : 30 files,  274 codes, 46 comments, 26 blanks, all 346 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| CSS      |         17 |        653 |        103 |        123 |        879 |
+| PHP      |         13 |       -379 |        -57 |        -97 |       -533 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                    | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                       |         30 |        274 |         46 |         26 |        346 |
+| . (Files)                                                               |         12 |        632 |        103 |        117 |        852 |
+| ..                                                                      |         13 |       -379 |        -57 |        -97 |       -533 |
+| ..\includes                                                             |         13 |       -379 |        -57 |        -97 |       -533 |
+| bootstrap                                                               |          5 |         21 |          0 |          6 |         27 |
+| bootstrap (Files)                                                       |          1 |         11 |          0 |          2 |         13 |
+| bootstrap\mixins                                                        |          3 |          0 |          0 |          3 |          3 |
+| bootstrap\utilities                                                     |          1 |         10 |          0 |          1 |         11 |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                | language | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\xampp\htdocs\Project3200\css\book.css                                | CSS      |         31 |          0 |          5 |         36 |
+| c:\xampp\htdocs\Project3200\css\book_details.css                        | CSS      |         78 |         16 |         20 |        114 |
+| c:\xampp\htdocs\Project3200\css\bootstrap.min.css                       | CSS      |          1 |          6 |          0 |          7 |
+| c:\xampp\htdocs\Project3200\css\bootstrap\_media.css                    | CSS      |         11 |          0 |          2 |         13 |
+| c:\xampp\htdocs\Project3200\css\bootstrap\mixins\_border-radius.css     | CSS      |          0 |          0 |          1 |          1 |
+| c:\xampp\htdocs\Project3200\css\bootstrap\mixins\_screen-reader.css     | CSS      |          0 |          0 |          1 |          1 |
+| c:\xampp\htdocs\Project3200\css\bootstrap\mixins\_visibility.css        | CSS      |          0 |          0 |          1 |          1 |
+| c:\xampp\htdocs\Project3200\css\bootstrap\utilities\_stretched-link.css | CSS      |         10 |          0 |          1 |         11 |
+| c:\xampp\htdocs\Project3200\css\card.css                                | CSS      |         54 |          1 |          9 |         64 |
+| c:\xampp\htdocs\Project3200\css\community.css                           | CSS      |         68 |          8 |         14 |         90 |
+| c:\xampp\htdocs\Project3200\css\login.css                               | CSS      |         61 |          1 |          9 |         71 |
+| c:\xampp\htdocs\Project3200\css\personalize.css                         | CSS      |         87 |          3 |         13 |        103 |
+| c:\xampp\htdocs\Project3200\css\profile.css                             | CSS      |         47 |          4 |         11 |         62 |
+| c:\xampp\htdocs\Project3200\css\searchbox.css                           | CSS      |         99 |          0 |         17 |        116 |
+| c:\xampp\htdocs\Project3200\css\sidebar.css                             | CSS      |         55 |          3 |         10 |         68 |
+| c:\xampp\htdocs\Project3200\css\signup.css                              | CSS      |          0 |         56 |          1 |         57 |
+| c:\xampp\htdocs\Project3200\css\write_review.css                        | CSS      |         51 |          5 |          8 |         64 |
+| c:\xampp\htdocs\Project3200\includes\community.inc.php                  | PHP      |        -25 |        -12 |         -9 |        -46 |
+| c:\xampp\htdocs\Project3200\includes\dbh.inc.php                        | PHP      |         -9 |          0 |         -2 |        -11 |
+| c:\xampp\htdocs\Project3200\includes\functions.inc.php                  | PHP      |        -58 |          0 |         -7 |        -65 |
+| c:\xampp\htdocs\Project3200\includes\header.inc.php                     | PHP      |        -54 |         -1 |         -5 |        -60 |
+| c:\xampp\htdocs\Project3200\includes\homepage.inc.php                   | PHP      |        -29 |         -5 |        -10 |        -44 |
+| c:\xampp\htdocs\Project3200\includes\login.inc.php                      | PHP      |        -26 |          0 |        -12 |        -38 |
+| c:\xampp\htdocs\Project3200\includes\personalize.inc.php                | PHP      |        -22 |         -9 |         -6 |        -37 |
+| c:\xampp\htdocs\Project3200\includes\profile.inc.php                    | PHP      |        -30 |         -7 |         -8 |        -45 |
+| c:\xampp\htdocs\Project3200\includes\read.inc.php                       | PHP      |        -17 |         -3 |         -4 |        -24 |
+| c:\xampp\htdocs\Project3200\includes\search.inc.php                     | PHP      |        -12 |         -7 |         -8 |        -27 |
+| c:\xampp\htdocs\Project3200\includes\signup.inc.php                     | PHP      |        -38 |          0 |        -13 |        -51 |
+| c:\xampp\htdocs\Project3200\includes\wishlist.inc.php                   | PHP      |        -17 |         -3 |         -4 |        -24 |
+| c:\xampp\htdocs\Project3200\includes\write_review.inc.php               | PHP      |        -42 |        -10 |         -9 |        -61 |
+| Total                                                                   |          |        274 |         46 |         26 |        346 |
++-------------------------------------------------------------------------+----------+------------+------------+------------+------------+

@@ -1,0 +1,115 @@
+.content-wrapper {
+  max-height: 300px;
+  width: 500px; /* Adjust the width based on the search div width */
+  margin: 0 auto; /* Center the content div */
+}
+
+#content {
+  background-color: #f7f7f7; /* Example background color */
+  border: 1px solid #ddd; /* Example border */
+}
+
+input,
+button {
+  font-family: 'Poppins', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.s130 {
+  min-height: 5vh;
+  max-height: 5vh;
+  display: flex;
+  justify-content: flex-end; /* Align items to the end (top right corner) */
+  align-items: flex-start; /* Align items to the start (top right corner) */
+  font-family: 'Poppins', sans-serif;
+  padding: 15px;
+  position: relative;
+}
+
+.s130 form {
+  width: 100%;
+  max-width: 790px;
+  padding-top: 0vh;
+  position: absolute; /* Change position to absolute */
+  top: 0; /* Align to the top */
+  right: 0; /* Align to the right */
+}
+
+.s130 form .inner-form {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 34px;
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+
+.s130 form .inner-form .input-field {
+  height: 40px; /* Adjust the height as needed */
+}
+
+.s130 form .inner-form .input-field input {
+  height: 100%;
+  background: transparent;
+  border: 0;
+  display: block;
+  width: 100%;
+  padding: 5px 10px; /* Adjust padding as needed */
+  font-size: 14px; /* Increased font size */
+  color: #000;
+}
+
+.s130 form .inner-form .input-field.first-wrap {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  background: #d9f1e3;
+}
+
+.s130 form .inner-form .input-field.first-wrap input {
+  flex-grow: 1;
+}
+
+.s130 form .inner-form .input-field.second-wrap {
+  min-width: 120px; /* Adjust the width of the button wrapper */
+}
+
+.s130 form .inner-form .input-field.second-wrap .btn-search {
+  height: 100%;
+  width: 100%;
+  font-size: 14px; /* Increased font size */
+  color: #fff;
+  border: 0;
+  cursor: pointer;
+  position: relative;
+  z-index: 0;
+  background: rgb(47, 107, 87);
+  transition: all .2s ease-out, color .2s ease-out;
+  font-weight: 300;
+  padding: 8px 12px; /* Adjust padding as needed */
+}
+
+.s130 form .inner-form .input-field.second-wrap .btn-search:hover {
+  background: #273f34;
+}
+
+.s130 form .inner-form .input-field.second-wrap .btn-search:focus {
+  outline: 0;
+  box-shadow: none;
+}
+
+.s130 form .info {
+  font-size: 15px;
+  color: #ccc;
+  padding-left: 26px;
+}
+
+@media screen and (max-width: 992px) {
+  .s130 form .inner-form .input-field {
+    height: 30px; /* Adjust the height as needed */
+  }
+}

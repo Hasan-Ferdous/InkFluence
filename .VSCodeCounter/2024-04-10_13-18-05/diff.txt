@@ -1,0 +1,247 @@
+Date : 2024-04-10 13:18:05
+Directory : c:\xampp\htdocs\Project3200\includes
+Total : 179 files,  -99011 codes, -7698 comments, -11139 blanks, all -117848 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| PHP        |         15 |       -813 |        -59 |       -130 |     -1,002 |
+| XML        |          1 |     -1,660 |          0 |          0 |     -1,660 |
+| JSON       |          1 |     -2,052 |          0 |          0 |     -2,052 |
+| SCSS       |         91 |     -7,649 |     -1,142 |     -1,421 |    -10,212 |
+| JavaScript |         23 |    -30,758 |     -6,174 |     -5,317 |    -42,249 |
+| CSS        |         48 |    -56,079 |       -323 |     -4,271 |    -60,673 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                    | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                       |        179 |    -99,011 |     -7,698 |    -11,139 |   -117,848 |
+| ..                                                                                      |        179 |    -99,011 |     -7,698 |    -11,139 |   -117,848 |
+| .. (Files)                                                                              |         14 |       -795 |        -43 |       -122 |       -960 |
+| ..\assets                                                                               |         49 |    -79,543 |     -3,053 |     -6,628 |    -89,224 |
+| ..\assets\css                                                                           |          1 |       -592 |        -42 |       -101 |       -735 |
+| ..\assets\js                                                                            |          1 |       -164 |        -58 |        -26 |       -248 |
+| ..\assets\vendor                                                                        |         47 |    -78,787 |     -2,953 |     -6,501 |    -88,241 |
+| ..\assets\vendor\animate.css                                                            |          3 |     -3,697 |        -36 |       -354 |     -4,087 |
+| ..\assets\vendor\bootstrap                                                              |         22 |    -53,115 |     -1,949 |     -4,505 |    -59,569 |
+| ..\assets\vendor\bootstrap-icons                                                        |          4 |     -6,203 |        -14 |        -10 |     -6,227 |
+| ..\assets\vendor\bootstrap\css                                                          |         16 |    -40,876 |       -114 |     -3,300 |    -44,290 |
+| ..\assets\vendor\bootstrap\js                                                           |          6 |    -12,239 |     -1,835 |     -1,205 |    -15,279 |
+| ..\assets\vendor\boxicons                                                               |          5 |     -7,413 |          0 |        -90 |     -7,503 |
+| ..\assets\vendor\boxicons\css                                                           |          4 |     -5,753 |          0 |        -90 |     -5,843 |
+| ..\assets\vendor\boxicons\fonts                                                         |          1 |     -1,660 |          0 |          0 |     -1,660 |
+| ..\assets\vendor\glightbox                                                              |          6 |     -5,503 |         -8 |       -888 |     -6,399 |
+| ..\assets\vendor\glightbox\css                                                          |          4 |     -2,436 |         -8 |       -298 |     -2,742 |
+| ..\assets\vendor\glightbox\js                                                           |          2 |     -3,067 |          0 |       -590 |     -3,657 |
+| ..\assets\vendor\isotope-layout                                                         |          2 |     -2,200 |       -839 |       -537 |     -3,576 |
+| ..\assets\vendor\php-email-form                                                         |          1 |        -70 |         -5 |        -11 |        -86 |
+| ..\assets\vendor\purecounter                                                            |          1 |         -1 |         -8 |          0 |         -9 |
+| ..\assets\vendor\swiper                                                                 |          2 |         -2 |        -23 |         -2 |        -27 |
+| ..\assets\vendor\waypoints                                                              |          1 |       -583 |        -71 |       -104 |       -758 |
+| ..\css                                                                                  |         17 |       -653 |       -103 |       -123 |       -879 |
+| ..\css (Files)                                                                          |         12 |       -632 |       -103 |       -117 |       -852 |
+| ..\css\bootstrap                                                                        |          5 |        -21 |          0 |         -6 |        -27 |
+| ..\css\bootstrap (Files)                                                                |          1 |        -11 |          0 |         -2 |        -13 |
+| ..\css\bootstrap\mixins                                                                 |          3 |          0 |          0 |         -3 |         -3 |
+| ..\css\bootstrap\utilities                                                              |          1 |        -10 |          0 |         -1 |        -11 |
+| ..\forms                                                                                |          1 |        -18 |        -16 |         -8 |        -42 |
+| ..\js                                                                                   |          8 |    -12,433 |     -3,346 |     -2,843 |    -18,622 |
+| ..\js (Files)                                                                           |          5 |        -16 |        -11 |        -10 |        -37 |
+| ..\js\extention                                                                         |          3 |    -12,417 |     -3,335 |     -2,833 |    -18,585 |
+| ..\scss                                                                                 |         90 |     -5,569 |     -1,137 |     -1,415 |     -8,121 |
+| ..\scss (Files)                                                                         |          1 |       -225 |         -3 |        -27 |       -255 |
+| ..\scss\bootstrap                                                                       |         89 |     -5,344 |     -1,134 |     -1,388 |     -7,866 |
+| ..\scss\bootstrap (Files)                                                               |         40 |     -4,069 |       -868 |     -1,088 |     -6,025 |
+| ..\scss\bootstrap\mixins                                                                |         31 |       -811 |       -166 |       -159 |     -1,136 |
+| ..\scss\bootstrap\utilities                                                             |         17 |       -338 |        -57 |       -105 |       -500 |
+| ..\scss\bootstrap\vendor                                                                |          1 |       -126 |        -43 |        -36 |       -205 |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\xampp\htdocs\Project3200\another_page.php                                            | PHP        |       -118 |        -30 |        -23 |       -171 |
+| c:\xampp\htdocs\Project3200\assets\css\style.css                                        | CSS        |       -592 |        -42 |       -101 |       -735 |
+| c:\xampp\htdocs\Project3200\assets\js\main.js                                           | JavaScript |       -164 |        -58 |        -26 |       -248 |
+| c:\xampp\htdocs\Project3200\assets\vendor\animate.css\animate.compat.css                | CSS        |         -2 |         -5 |          0 |         -7 |
+| c:\xampp\htdocs\Project3200\assets\vendor\animate.css\animate.css                       | CSS        |     -3,693 |        -26 |       -354 |     -4,073 |
+| c:\xampp\htdocs\Project3200\assets\vendor\animate.css\animate.min.css                   | CSS        |         -2 |         -5 |          0 |         -7 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap-icons\bootstrap-icons.css           | CSS        |     -2,070 |         -5 |         -4 |     -2,079 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap-icons\bootstrap-icons.json          | JSON       |     -2,052 |          0 |          0 |     -2,052 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap-icons\bootstrap-icons.min.css       | CSS        |         -1 |         -4 |          0 |         -5 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap-icons\bootstrap-icons.scss          | SCSS       |     -2,080 |         -5 |         -6 |     -2,091 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap\css\bootstrap-grid.css              | CSS        |     -3,886 |         -6 |       -193 |     -4,085 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap\css\bootstrap-grid.min.css          | CSS        |         -1 |         -5 |          0 |         -6 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap\css\bootstrap-grid.rtl.css          | CSS        |     -3,886 |         -6 |       -192 |     -4,084 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap\css\bootstrap-grid.rtl.min.css      | CSS        |         -1 |         -5 |          0 |         -6 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap\css\bootstrap-reboot.css            | CSS        |       -518 |        -14 |        -65 |       -597 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap\css\bootstrap-reboot.min.css        | CSS        |         -1 |         -5 |          0 |         -6 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap\css\bootstrap-reboot.rtl.css        | CSS        |       -524 |         -6 |        -64 |       -594 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap\css\bootstrap-reboot.rtl.min.css    | CSS        |         -1 |         -5 |          0 |         -6 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap\css\bootstrap-utilities.css         | CSS        |     -4,891 |         -8 |       -503 |     -5,402 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap\css\bootstrap-utilities.min.css     | CSS        |         -1 |         -5 |          0 |         -6 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap\css\bootstrap-utilities.rtl.css     | CSS        |     -4,887 |         -6 |       -500 |     -5,393 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap\css\bootstrap-utilities.rtl.min.css | CSS        |         -1 |         -5 |          0 |         -6 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap\css\bootstrap.css                   | CSS        |    -11,136 |        -24 |       -897 |    -12,057 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap\css\bootstrap.min.css               | CSS        |         -2 |         -4 |          0 |         -6 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap\css\bootstrap.rtl.css               | CSS        |    -11,138 |         -6 |       -886 |    -12,030 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap\css\bootstrap.rtl.min.css           | CSS        |         -2 |         -4 |          0 |         -6 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap\js\bootstrap.bundle.js              | JavaScript |     -5,064 |       -655 |       -596 |     -6,315 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap\js\bootstrap.bundle.min.js          | JavaScript |         -1 |         -6 |          0 |         -7 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap\js\bootstrap.esm.js                 | JavaScript |     -3,568 |       -578 |       -302 |     -4,448 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap\js\bootstrap.esm.min.js             | JavaScript |         -1 |         -6 |          0 |         -7 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap\js\bootstrap.js                     | JavaScript |     -3,604 |       -584 |       -307 |     -4,495 |
+| c:\xampp\htdocs\Project3200\assets\vendor\bootstrap\js\bootstrap.min.js                 | JavaScript |         -1 |         -6 |          0 |         -7 |
+| c:\xampp\htdocs\Project3200\assets\vendor\boxicons\css\animations.css                   | CSS        |       -354 |          0 |        -32 |       -386 |
+| c:\xampp\htdocs\Project3200\assets\vendor\boxicons\css\boxicons.css                     | CSS        |     -5,373 |          0 |        -52 |     -5,425 |
+| c:\xampp\htdocs\Project3200\assets\vendor\boxicons\css\boxicons.min.css                 | CSS        |         -1 |          0 |          0 |         -1 |
+| c:\xampp\htdocs\Project3200\assets\vendor\boxicons\css\transformations.css              | CSS        |        -25 |          0 |         -6 |        -31 |
+| c:\xampp\htdocs\Project3200\assets\vendor\boxicons\fonts\boxicons.svg                   | XML        |     -1,660 |          0 |          0 |     -1,660 |
+| c:\xampp\htdocs\Project3200\assets\vendor\glightbox\css\glightbox.css                   | CSS        |       -819 |         -8 |       -113 |       -940 |
+| c:\xampp\htdocs\Project3200\assets\vendor\glightbox\css\glightbox.min.css               | CSS        |         -1 |          0 |          0 |         -1 |
+| c:\xampp\htdocs\Project3200\assets\vendor\glightbox\css\plyr.css                        | CSS        |     -1,615 |          0 |       -185 |     -1,800 |
+| c:\xampp\htdocs\Project3200\assets\vendor\glightbox\css\plyr.min.css                    | CSS        |         -1 |          0 |          0 |         -1 |
+| c:\xampp\htdocs\Project3200\assets\vendor\glightbox\js\glightbox.js                     | JavaScript |     -3,066 |          0 |       -590 |     -3,656 |
+| c:\xampp\htdocs\Project3200\assets\vendor\glightbox\js\glightbox.min.js                 | JavaScript |         -1 |          0 |          0 |         -1 |
+| c:\xampp\htdocs\Project3200\assets\vendor\isotope-layout\isotope.pkgd.js                | JavaScript |     -2,198 |       -830 |       -536 |     -3,564 |
+| c:\xampp\htdocs\Project3200\assets\vendor\isotope-layout\isotope.pkgd.min.js            | JavaScript |         -2 |         -9 |         -1 |        -12 |
+| c:\xampp\htdocs\Project3200\assets\vendor\php-email-form\validate.js                    | JavaScript |        -70 |         -5 |        -11 |        -86 |
+| c:\xampp\htdocs\Project3200\assets\vendor\purecounter\purecounter_vanilla.js            | JavaScript |         -1 |         -8 |          0 |         -9 |
+| c:\xampp\htdocs\Project3200\assets\vendor\swiper\swiper-bundle.min.css                  | CSS        |         -1 |        -11 |         -1 |        -13 |
+| c:\xampp\htdocs\Project3200\assets\vendor\swiper\swiper-bundle.min.js                   | JavaScript |         -1 |        -12 |         -1 |        -14 |
+| c:\xampp\htdocs\Project3200\assets\vendor\waypoints\noframework.waypoints.js            | JavaScript |       -583 |        -71 |       -104 |       -758 |
+| c:\xampp\htdocs\Project3200\books.php                                                   | PHP        |        -22 |         -2 |         -1 |        -25 |
+| c:\xampp\htdocs\Project3200\card.php                                                    | PHP        |       -119 |         -2 |         -8 |       -129 |
+| c:\xampp\htdocs\Project3200\community.php                                               | PHP        |        -21 |          0 |         -6 |        -27 |
+| c:\xampp\htdocs\Project3200\css\book.css                                                | CSS        |        -31 |          0 |         -5 |        -36 |
+| c:\xampp\htdocs\Project3200\css\book_details.css                                        | CSS        |        -78 |        -16 |        -20 |       -114 |
+| c:\xampp\htdocs\Project3200\css\bootstrap.min.css                                       | CSS        |         -1 |         -6 |          0 |         -7 |
+| c:\xampp\htdocs\Project3200\css\bootstrap\_media.css                                    | CSS        |        -11 |          0 |         -2 |        -13 |
+| c:\xampp\htdocs\Project3200\css\bootstrap\mixins\_border-radius.css                     | CSS        |          0 |          0 |         -1 |         -1 |
+| c:\xampp\htdocs\Project3200\css\bootstrap\mixins\_screen-reader.css                     | CSS        |          0 |          0 |         -1 |         -1 |
+| c:\xampp\htdocs\Project3200\css\bootstrap\mixins\_visibility.css                        | CSS        |          0 |          0 |         -1 |         -1 |
+| c:\xampp\htdocs\Project3200\css\bootstrap\utilities\_stretched-link.css                 | CSS        |        -10 |          0 |         -1 |        -11 |
+| c:\xampp\htdocs\Project3200\css\card.css                                                | CSS        |        -54 |         -1 |         -9 |        -64 |
+| c:\xampp\htdocs\Project3200\css\community.css                                           | CSS        |        -68 |         -8 |        -14 |        -90 |
+| c:\xampp\htdocs\Project3200\css\login.css                                               | CSS        |        -61 |         -1 |         -9 |        -71 |
+| c:\xampp\htdocs\Project3200\css\personalize.css                                         | CSS        |        -87 |         -3 |        -13 |       -103 |
+| c:\xampp\htdocs\Project3200\css\profile.css                                             | CSS        |        -47 |         -4 |        -11 |        -62 |
+| c:\xampp\htdocs\Project3200\css\searchbox.css                                           | CSS        |        -99 |          0 |        -17 |       -116 |
+| c:\xampp\htdocs\Project3200\css\sidebar.css                                             | CSS        |        -55 |         -3 |        -10 |        -68 |
+| c:\xampp\htdocs\Project3200\css\signup.css                                              | CSS        |          0 |        -56 |         -1 |        -57 |
+| c:\xampp\htdocs\Project3200\css\write_review.css                                        | CSS        |        -51 |         -5 |         -8 |        -64 |
+| c:\xampp\htdocs\Project3200\forms\contact.php                                           | PHP        |        -18 |        -16 |         -8 |        -42 |
+| c:\xampp\htdocs\Project3200\homepage.php                                                | PHP        |        -25 |          0 |         -4 |        -29 |
+| c:\xampp\htdocs\Project3200\index.php                                                   | PHP        |       -173 |          0 |        -39 |       -212 |
+| c:\xampp\htdocs\Project3200\js\bootstrap.min.js                                         | JavaScript |         -1 |         -6 |          0 |         -7 |
+| c:\xampp\htdocs\Project3200\js\extention\choices.js                                     | JavaScript |     -3,796 |     -1,379 |     -1,032 |     -6,207 |
+| c:\xampp\htdocs\Project3200\js\extention\custom-materialize.js                          | JavaScript |     -8,620 |     -1,955 |     -1,799 |    -12,374 |
+| c:\xampp\htdocs\Project3200\js\extention\flatpickr.js                                   | JavaScript |         -1 |         -1 |         -2 |         -4 |
+| c:\xampp\htdocs\Project3200\js\jquery.min.js                                            | JavaScript |         -1 |         -1 |          0 |         -2 |
+| c:\xampp\htdocs\Project3200\js\main.js                                                  | JavaScript |        -13 |          0 |         -7 |        -20 |
+| c:\xampp\htdocs\Project3200\js\popper.js                                                | JavaScript |         -1 |         -4 |          0 |         -5 |
+| c:\xampp\htdocs\Project3200\js\search.js                                                | JavaScript |          0 |          0 |         -3 |         -3 |
+| c:\xampp\htdocs\Project3200\login.php                                                   | PHP        |        -31 |          0 |         -1 |        -32 |
+| c:\xampp\htdocs\Project3200\personalize.php                                             | PHP        |        -64 |         -2 |        -10 |        -76 |
+| c:\xampp\htdocs\Project3200\profile.php                                                 | PHP        |        -51 |          0 |         -8 |        -59 |
+| c:\xampp\htdocs\Project3200\reviews.php                                                 | PHP        |        -44 |         -1 |         -3 |        -48 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_alert.scss                                  | SCSS       |        -28 |        -13 |        -11 |        -52 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_badge.scss                                  | SCSS       |        -34 |        -12 |         -9 |        -55 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_breadcrumb.scss                             | SCSS       |        -29 |         -8 |         -5 |        -42 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_button-group.scss                           | SCSS       |       -101 |        -31 |        -32 |       -164 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_buttons.scss                                | SCSS       |        -87 |        -22 |        -29 |       -138 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_card.scss                                   | SCSS       |       -202 |        -34 |        -54 |       -290 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_carousel.scss                               | SCSS       |       -142 |        -30 |        -26 |       -198 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_close.scss                                  | SCSS       |        -27 |         -8 |         -7 |        -42 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_code.scss                                   | SCSS       |        -36 |         -6 |         -7 |        -49 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_custom-forms.scss                           | SCSS       |       -388 |        -45 |        -75 |       -508 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_dropdown.scss                               | SCSS       |       -152 |        -16 |        -24 |       -192 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_forms.scss                                  | SCSS       |       -206 |        -71 |        -54 |       -331 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_functions.scss                              | SCSS       |        -54 |        -19 |        -14 |        -87 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_grid.scss                                   | SCSS       |        -28 |        -15 |        -10 |        -53 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_images.scss                                 | SCSS       |        -22 |        -13 |         -8 |        -43 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_input-group.scss                            | SCSS       |       -129 |        -32 |        -33 |       -194 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_jumbotron.scss                              | SCSS       |        -15 |          0 |         -3 |        -18 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_list-group.scss                             | SCSS       |        -94 |        -25 |        -31 |       -150 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_media.scss                                  | SCSS       |         -7 |          0 |         -2 |         -9 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_mixins.scss                                 | SCSS       |        -32 |         -9 |         -7 |        -48 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_modal.scss                                  | SCSS       |       -161 |        -34 |        -35 |       -230 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_nav.scss                                    | SCSS       |        -78 |        -19 |        -24 |       -121 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_navbar.scss                                 | SCSS       |       -194 |        -46 |        -55 |       -295 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_pagination.scss                             | SCSS       |        -59 |         -4 |        -11 |        -74 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_popover.scss                                | SCSS       |       -142 |         -5 |        -25 |       -172 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_print.scss                                  | SCSS       |        -84 |        -33 |        -25 |       -142 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_progress.scss                               | SCSS       |        -37 |         -1 |         -6 |        -44 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_reboot.scss                                 | SCSS       |       -265 |       -134 |        -85 |       -484 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_root.scss                                   | SCSS       |        -13 |         -3 |         -4 |        -20 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_spinners.scss                               | SCSS       |        -40 |         -8 |         -8 |        -56 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_tables.scss                                 | SCSS       |       -121 |        -28 |        -37 |       -186 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_toasts.scss                                 | SCSS       |        -38 |          0 |         -7 |        -45 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_tooltip.scss                                | SCSS       |        -93 |         -5 |        -18 |       -116 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_transitions.scss                            | SCSS       |        -17 |          0 |         -4 |        -21 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_type.scss                                   | SCSS       |        -82 |        -20 |        -24 |       -126 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_utilities.scss                              | SCSS       |        -17 |          0 |         -1 |        -18 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\_variables.scss                              | SCSS       |       -756 |       -100 |       -268 |     -1,124 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\bootstrap-grid.scss                          | SCSS       |        -18 |         -6 |         -6 |        -30 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\bootstrap-reboot.scss                        | SCSS       |         -4 |         -7 |         -2 |        -13 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\bootstrap.scss                               | SCSS       |        -37 |         -6 |         -2 |        -45 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_alert.scss                           | SCSS       |        -11 |          0 |         -3 |        -14 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_background-variant.scss              | SCSS       |        -16 |         -2 |         -4 |        -22 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_badge.scss                           | SCSS       |        -15 |          0 |         -3 |        -18 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_border-radius.scss                   | SCSS       |        -52 |         -2 |        -10 |        -64 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_box-shadow.scss                      | SCSS       |        -17 |         -2 |         -2 |        -21 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_breakpoints.scss                     | SCSS       |        -69 |        -44 |        -11 |       -124 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_buttons.scss                         | SCSS       |        -83 |        -11 |        -14 |       -108 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_caret.scss                           | SCSS       |        -55 |          0 |         -8 |        -63 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_clearfix.scss                        | SCSS       |         -7 |          0 |         -1 |         -8 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_deprecate.scss                       | SCSS       |         -5 |         -5 |         -1 |        -11 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_float.scss                           | SCSS       |        -12 |         -1 |         -2 |        -15 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_forms.scss                           | SCSS       |       -152 |        -15 |        -26 |       -193 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_gradients.scss                       | SCSS       |        -34 |         -7 |         -5 |        -46 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_grid-framework.scss                  | SCSS       |        -49 |         -8 |        -10 |        -67 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_grid.scss                            | SCSS       |        -34 |        -10 |         -8 |        -52 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_hover.scss                           | SCSS       |        -23 |        -10 |         -5 |        -38 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_image.scss                           | SCSS       |        -13 |        -16 |         -8 |        -37 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_list-group.scss                      | SCSS       |        -17 |         -1 |         -4 |        -22 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_lists.scss                           | SCSS       |         -4 |         -2 |         -2 |         -8 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_nav-divider.scss                     | SCSS       |         -6 |         -3 |         -2 |        -11 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_pagination.scss                      | SCSS       |        -19 |         -1 |         -3 |        -23 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_reset-text.scss                      | SCSS       |        -16 |         -1 |         -1 |        -18 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_resize.scss                          | SCSS       |         -4 |         -1 |         -2 |         -7 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_screen-reader.scss                   | SCSS       |        -21 |         -9 |         -4 |        -34 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_size.scss                            | SCSS       |         -5 |         -1 |         -2 |         -8 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_table-row.scss                       | SCSS       |        -29 |         -5 |         -6 |        -40 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_text-emphasis.scss                   | SCSS       |        -12 |         -2 |         -3 |        -17 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_text-hide.scss                       | SCSS       |         -8 |         -2 |         -2 |        -12 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_text-truncate.scss                   | SCSS       |         -5 |         -2 |         -2 |         -9 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_transition.scss                      | SCSS       |        -14 |         -1 |         -2 |        -17 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\mixins\_visibility.scss                      | SCSS       |         -4 |         -2 |         -3 |         -9 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\utilities\_align.scss                        | SCSS       |         -6 |         -1 |         -2 |         -9 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\utilities\_background.scss                   | SCSS       |        -14 |         -1 |         -5 |        -20 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\utilities\_borders.scss                      | SCSS       |        -52 |         -7 |        -17 |        -76 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\utilities\_clearfix.scss                     | SCSS       |         -3 |          0 |         -1 |         -4 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\utilities\_display.scss                      | SCSS       |        -13 |         -7 |         -7 |        -27 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\utilities\_embed.scss                        | SCSS       |        -33 |         -1 |         -6 |        -40 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\utilities\_flex.scss                         | SCSS       |        -39 |         -4 |         -9 |        -52 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\utilities\_float.scss                        | SCSS       |         -8 |         -1 |         -3 |        -12 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\utilities\_overflow.scss                     | SCSS       |         -3 |         -1 |         -2 |         -6 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\utilities\_position.scss                     | SCSS       |        -24 |         -3 |         -6 |        -33 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\utilities\_screenreaders.scss                | SCSS       |         -6 |         -3 |         -3 |        -12 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\utilities\_shadows.scss                      | SCSS       |         -4 |         -1 |         -2 |         -7 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\utilities\_sizing.scss                       | SCSS       |        -11 |         -3 |         -7 |        -21 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\utilities\_spacing.scss                      | SCSS       |        -64 |         -4 |         -6 |        -74 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\utilities\_stretched-link.scss               | SCSS       |        -13 |         -5 |         -2 |        -20 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\utilities\_text.scss                         | SCSS       |        -39 |        -11 |        -23 |        -73 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\utilities\_visibility.scss                   | SCSS       |         -6 |         -4 |         -4 |        -14 |
+| c:\xampp\htdocs\Project3200\scss\bootstrap\vendor\_rfs.scss                             | SCSS       |       -126 |        -43 |        -36 |       -205 |
+| c:\xampp\htdocs\Project3200\scss\style.scss                                             | SCSS       |       -225 |         -3 |        -27 |       -255 |
+| c:\xampp\htdocs\Project3200\search.php                                                  | PHP        |        -25 |          0 |         -3 |        -28 |
+| c:\xampp\htdocs\Project3200\searched_books.php                                          | PHP        |        -26 |         -6 |         -7 |        -39 |
+| c:\xampp\htdocs\Project3200\signup.php                                                  | PHP        |        -29 |          0 |         -1 |        -30 |
+| c:\xampp\htdocs\Project3200\write_review.php                                            | PHP        |        -47 |          0 |         -8 |        -55 |
+| Total                                                                                   |            |    -99,011 |     -7,698 |    -11,139 |   -117,848 |
++-----------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

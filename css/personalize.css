@@ -1,0 +1,102 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Modern font */
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px; /* Increased gap for better spacing */
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    border: 2px solid transparent;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Added shadow */
+}
+
+.box.selected {
+    border-color: #333;
+}
+
+/* Hover effect */
+.box:hover {
+    transform: translateY(-5px); /* Move box up slightly on hover */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Add larger shadow on hover */
+}
+
+/* Selection effect */
+.box.selected {
+    background-color: #e0e0e0; /* Light gray background for selected box */
+}
+
+.light-green { background-color: #7fe0c0; }
+.light-blue { background-color: #7fc3e0; }
+.light-purple { background-color: #b47fe0; }
+.light-orange { background-color: #e0b77f; }
+.light-yellow { background-color: #e0db7f; }
+.light-pink { background-color: #e07fa6; }
+.light-cyan { background-color: #7fe0dd; }
+.light-teal { background-color: #7fe0a1; }
+.light-lime { background-color: #bce07f; }
+.light-gray { background-color: #c0c0c0; }
+.light-brown { background-color: #b7a68c; } 
+.light-olive { background-color: #b7ba8c; }
+.light-maroon { background-color: #e07f8d; }
+.light-indigo { background-color: #8c7fe0; }
+.light-peach { background-color: #e0a67f; }
+.light-mint { background-color: #7fe0c3; }
+.light-coral { background-color: #e08d7f; }
+.light-lavender { background-color: #b97fe0; }
+.light-salmon { background-color: #e0a07f; }
+.light-turquoise { background-color: #7fe0af; }
+.light-steel { background-color: #7f8be0; }
+.light-silver { background-color: #c0c0c0; }
+.light-gold { background-color: #e0c37f; }
+.light-rose { background-color: #e07f9e; }
+
+
+/* Button */
+.save-button {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Modern font */
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 15px 40px;
+    border-radius: 50px;
+    transition: 0.5s;
+    line-height: 1;
+    margin: 10px;
+    margin-top: 20px;
+    color: #000;
+    border: 2px solid #1bbca3;
+    background: transparent;
+    cursor: pointer;
+    float: right;
+    text-decoration: none; /* Remove underline */
+}
+
+.save-button:hover {
+    background: #1bbca3;
+    color: #fff;
+    text-decoration: none; /* Remove underline */
+}
+
+

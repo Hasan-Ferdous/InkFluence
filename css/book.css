@@ -1,0 +1,35 @@
+.entry {
+    display: inline-block;
+    width: calc(20% - 20px); /* 20% width for each entry with 20px margin */
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: #333;
+    color: white;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}

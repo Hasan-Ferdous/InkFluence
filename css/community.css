@@ -1,0 +1,89 @@
+/* Book Image */
+.book-image {
+    width: 100px; /* Adjust width as needed */
+    height: auto; /* Maintain aspect ratio */
+    float: right; /* Align image to the right */
+    margin-left: 10px; /* Add space between the image and text */
+}
+
+/* Reviews Container */
+.reviews-container {
+    margin-top: 20px;
+    flex-wrap: wrap; /* Wrap reviews to the next line if necessary */
+    justify-content: center; /* Center align reviews */
+    padding: 20px; /* Add padding to the reviews container */
+    font-size: 16px; /* Reduced font size for better readability */
+}
+
+/* Review */
+.review {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 80%; /* Adjusted width for better responsiveness */
+    max-width: 800px; /* Set maximum width to avoid stretching on larger screens */
+    margin: 20px auto; /* Center the review horizontally */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Added subtle shadow */
+}
+
+/* User Info */
+.username {
+    font-weight: bold;
+    margin-bottom: 5px; /* Added space below username */
+}
+
+/* Book Info */
+.book-info p{
+    margin: 5px 0; /* Adjusted spacing between book info items */
+    font-family: 'Helvetica Neue', Arial, sans-serif; /* Apply modern font */
+    font-size: 18px; 
+}
+
+.book-info p {
+    margin: 5px 0; /* Adjusted spacing between book info items */
+}
+
+.book-info a {
+    text-decoration: none; /* Remove underline */
+    color: #333; /* Set link color */
+}
+
+.book-info strong {
+    margin-right: 10px; /* Increased space between label and value */
+    font-weight: bold; /* Make labels bold */
+}
+
+/* Review Content */
+.review-text {
+    margin-bottom: 10px; /* Added space below review text */
+}
+
+/* Review ID */
+.review-id {
+    font-size: 14px;
+    color: #666; /* Dimmed color for review ID */
+}
+
+/* Actions */
+.actions {
+    margin-top: 10px; /* Added space above actions */
+    text-align: right;
+}
+
+.love-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+}
+
+.love-button img {
+    width: 30px;
+    height: 30px;
+    transition: transform 0.3s ease; /* Added smooth transition for hover effect */
+}
+
+.love-button:hover img {
+    transform: scale(1.1); /* Scale up on hover for interactive feedback */
+}

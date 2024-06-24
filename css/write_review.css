@@ -1,0 +1,63 @@
+/* Form Container */
+.container {
+    max-width: 600px; /* Increased max-width */
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+/* Labels */
+.lebels {
+    font-weight: bold;
+}
+
+/* Input Fields */
+input[type="text"],
+select,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+/* Textarea */
+.textarea_style {
+    margin-bottom: 15px;
+}
+
+.textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+/* Post Button */
+.post_button {
+    text-align: center;
+}
+
+.post_button button {
+    padding: 12px 24px; /* Increased padding */
+    background-color: #4CAF50; /* Green color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Added box shadow */
+}
+
+.post_button button:hover {
+    background-color: #45a049; /* Darker green on hover */
+}

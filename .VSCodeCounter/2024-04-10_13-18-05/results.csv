@@ -1,0 +1,15 @@
+"filename", "language", "PHP", "comment", "blank", "total"
+"c:\xampp\htdocs\Project3200\includes\community.inc.php", "PHP", 25, 12, 9, 46
+"c:\xampp\htdocs\Project3200\includes\dbh.inc.php", "PHP", 9, 0, 2, 11
+"c:\xampp\htdocs\Project3200\includes\functions.inc.php", "PHP", 58, 0, 7, 65
+"c:\xampp\htdocs\Project3200\includes\header.inc.php", "PHP", 54, 1, 5, 60
+"c:\xampp\htdocs\Project3200\includes\homepage.inc.php", "PHP", 29, 5, 10, 44
+"c:\xampp\htdocs\Project3200\includes\login.inc.php", "PHP", 26, 0, 12, 38
+"c:\xampp\htdocs\Project3200\includes\personalize.inc.php", "PHP", 22, 9, 6, 37
+"c:\xampp\htdocs\Project3200\includes\profile.inc.php", "PHP", 30, 7, 8, 45
+"c:\xampp\htdocs\Project3200\includes\read.inc.php", "PHP", 17, 3, 4, 24
+"c:\xampp\htdocs\Project3200\includes\search.inc.php", "PHP", 12, 7, 8, 27
+"c:\xampp\htdocs\Project3200\includes\signup.inc.php", "PHP", 38, 0, 13, 51
+"c:\xampp\htdocs\Project3200\includes\wishlist.inc.php", "PHP", 17, 3, 4, 24
+"c:\xampp\htdocs\Project3200\includes\write_review.inc.php", "PHP", 42, 10, 9, 61
+"Total", "-", 379, 57, 97, 533

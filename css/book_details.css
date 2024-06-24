@@ -1,0 +1,113 @@
+/* Reset some defaults */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set modern font */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Book details container */
+.book-details-container {
+    
+    display: flex;
+    align-items: flex-start;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Book cover container */
+.book-cover-container {
+    margin-right: 20px;
+}
+
+/* Book cover */
+.book-cover {
+    width: 250px; /* Adjust as needed */
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Book info */
+.book-info {
+    flex: 1;
+}
+
+/* Book info headings */
+.book-info h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+/* Book info paragraphs */
+.book-info p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 8px;
+    color: #555;
+}
+
+/* Strong elements inside book info */
+.book-info strong {
+    font-weight: bold;
+}
+
+/* Sale info */
+.sale-info {
+    font-weight: bold;
+    color: #007bff;
+}
+
+.book-info a {
+    text-decoration: none;
+    color: #007bff; /* Change link color */
+}
+
+/* Change link color on hover */
+.book-info a:hover {
+    color: #0056b3; /* Darker shade of the link color */
+}
+/* AIzaSyAALlAV4We348VTqK18QTDgSQgb9WlpBR4*/
+
+
+/* Button style */
+/* CSS for modern button styling */
+/* CSS for modern button styling */
+/* CSS for modern button styling */
+.btn {
+    margin-top: 5px;
+    padding: 4px 16px; /* Adjust padding to make the buttons smaller */
+    border: 2px solid #4CAF50; /* Add border to the buttons */
+    background-color: rgba(76, 175, 80, 0); /* Set background color to slightly transparent */
+    color: #4CAF50; /* Set text color */
+    font-size: 14px; /* Decrease font size */
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease; /* Add transitions */
+    margin-right: 10px; /* Add some space between buttons */
+}
+
+.btn:hover {
+    background-color: rgba(76, 175, 80, 0.2); /* Slightly transparent background color when hovering */
+    border-color: #45a049; /* Darker border color when hovering */
+    color: #45a049; /* Text color when hovering */
+}
+
+.wishlist-btn {
+    color: #007bff; /* Set text color for wishlist button */
+    border-color: #007bff; /* Set border color for wishlist button */
+}
+
+.wishlist-btn:hover {
+    background-color: rgba(0, 123, 255, 0.2); /* Slightly transparent background color for wishlist button when hovering */
+    border-color: #0056b3; /* Darker border color for wishlist button when hovering */
+    color: #0056b3; /* Text color for wishlist button when hovering */
+}
+
+

@@ -1,0 +1,67 @@
+/* Navigation Bar */
+#sidebar {
+  position: fixed;
+  height: 100%;
+  width: 250px;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  transition: all 0.3s;
+  background-color: rgb(47, 107, 87);
+  color: #fff;
+  padding-top: 60px;
+  box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.5); /* Drop some shadow */
+}
+
+#sidebar .p-4 ul.list-unstyled.components li.active {
+  background-color: #e2ece8;
+}
+
+#sidebar .custom-menu button {
+  display: none; /* Remove the toggle menu button */
+}
+
+#sidebar .p-4 h1 a.logo {
+  color: #fff;
+  text-decoration: none;
+  font-size: 30px; /* Decrease the font size */
+  font-weight: bold; /* Make the logo bolder */
+  display: block; /* Ensure the logo takes full width */
+  text-align: center; /* Align the logo to the center */
+  margin-bottom: 20px; /* Add some spacing below the logo */
+  font-family: 'Roboto', sans-serif; /* Use modern font */
+}
+
+#sidebar .p-4 ul.list-unstyled.components li {
+  padding: 10px;
+  border-bottom: 1px solid #555;
+}
+
+#sidebar .p-4 ul.list-unstyled.components li a {
+  color: #fff;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif; /* Use modern font */
+}
+
+#sidebar .p-4 ul.list-unstyled.components li.active {
+  background-color: #273f34
+}
+
+/* Main Content */
+#content {
+  margin-left: 250px;
+  padding: 20px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  #sidebar {
+      width: 100%;
+      height: auto;
+      position: relative;
+  }
+
+  #content {
+      margin-left: 0;
+  }
+}

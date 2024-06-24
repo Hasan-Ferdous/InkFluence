@@ -1,0 +1,132 @@
+/* Reset CSS */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+/* Profile Header */
+.profile-header {
+    background: linear-gradient(to right, rgb(6, 63, 6), rgba(0, 255, 0, 0.5));
+    background-size: cover;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.profile-picture {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.profile-info {
+    flex-grow: 1;
+}
+
+.profile-info h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.email {
+    font-size: 14px;
+}
+
+/* Profile Section */
+.profile-section {
+    padding: 20px;
+    border-bottom: 1px solid #eee;
+}
+
+.profile-section h2 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.book-list, .review-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.book-list li, .review-list li {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.book-list img {
+    max-width: 100px;
+    height: auto;
+    transition: transform 0.3s ease; /* Adding transition for smooth effect */
+}
+
+.book-list img:hover {
+    transform: scale(1.1); /* Increasing the size on hover */
+}
+
+.review-list li {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.review-list li p {
+    margin: 0;
+}
+
+.review-list li strong {
+    font-weight: bold;
+    color: #333;
+}
+
+.delete-button {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    background-color: #ff6347; /* Red color for delete button */
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.delete-button:hover {
+    background-color: #d32f2f; /* Darker red color on hover */
+}
+
+/* Additional styles for the book list */
+.book-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start; /* Adjust as needed */
+}
+
+.book-list li {
+    margin-right: 20px; /* Adjust spacing between book covers */
+    margin-bottom: 20px;
+}
+
+.book-list img {
+    max-width: 100px;
+    height: auto;
+}
